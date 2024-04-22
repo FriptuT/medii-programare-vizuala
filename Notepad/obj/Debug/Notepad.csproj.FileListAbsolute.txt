@@ -1,0 +1,10 @@
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\bin\Debug\Notepad.exe.config
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\bin\Debug\Notepad.exe
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\bin\Debug\Notepad.pdb
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\obj\Debug\Notepad.Form1.resources
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\obj\Debug\Notepad.exe
+M:\Facultate\ultimul an\medii de programare vizuala\Notepad\obj\Debug\Notepad.pdb

@@ -1,0 +1,10 @@
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\bin\Debug\HyperLink.exe.config
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\bin\Debug\HyperLink.exe
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\bin\Debug\HyperLink.pdb
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\obj\Debug\HyperLink.csproj.AssemblyReference.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\obj\Debug\HyperLink.Form1.resources
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\obj\Debug\HyperLink.Properties.Resources.resources
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\obj\Debug\HyperLink.csproj.GenerateResource.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\obj\Debug\HyperLink.csproj.CoreCompileInputs.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\obj\Debug\HyperLink.exe
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\HyperLink\obj\Debug\HyperLink.pdb

@@ -1,0 +1,10 @@
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\bin\Debug\SchimbaCuloarea.exe.config
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\bin\Debug\SchimbaCuloarea.exe
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\bin\Debug\SchimbaCuloarea.pdb
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\obj\Debug\SchimbaCuloarea.csproj.AssemblyReference.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\obj\Debug\SchimbaCuloarea.SchimbaCuloarea.resources
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\obj\Debug\SchimbaCuloarea.Properties.Resources.resources
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\obj\Debug\SchimbaCuloarea.csproj.GenerateResource.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\obj\Debug\SchimbaCuloarea.csproj.CoreCompileInputs.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\obj\Debug\SchimbaCuloarea.exe
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\SchimbaCuloarea\obj\Debug\SchimbaCuloarea.pdb

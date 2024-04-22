@@ -1,0 +1,17 @@
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\bin\Debug\net8.0-windows\CaseteDeDialog.exe
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\bin\Debug\net8.0-windows\CaseteDeDialog.deps.json
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\bin\Debug\net8.0-windows\CaseteDeDialog.runtimeconfig.json
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\bin\Debug\net8.0-windows\CaseteDeDialog.dll
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\bin\Debug\net8.0-windows\CaseteDeDialog.pdb
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.Form1.resources
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.Form2.resources
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.csproj.GenerateResource.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.GeneratedMSBuildEditorConfig.editorconfig
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.AssemblyInfoInputs.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.AssemblyInfo.cs
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.csproj.CoreCompileInputs.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.dll
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\refint\CaseteDeDialog.dll
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.pdb
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\CaseteDeDialog.genruntimeconfig.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CaseteDeDialog\obj\Debug\net8.0-windows\ref\CaseteDeDialog.dll

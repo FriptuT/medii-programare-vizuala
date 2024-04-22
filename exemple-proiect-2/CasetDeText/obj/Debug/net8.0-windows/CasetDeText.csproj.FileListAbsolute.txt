@@ -1,0 +1,16 @@
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\bin\Debug\net8.0-windows\CasetDeText.exe
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\bin\Debug\net8.0-windows\CasetDeText.deps.json
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\bin\Debug\net8.0-windows\CasetDeText.runtimeconfig.json
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\bin\Debug\net8.0-windows\CasetDeText.dll
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\bin\Debug\net8.0-windows\CasetDeText.pdb
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\CasetDeText.Form1.resources
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\CasetDeText.csproj.GenerateResource.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\CasetDeText.GeneratedMSBuildEditorConfig.editorconfig
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\CasetDeText.AssemblyInfoInputs.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\CasetDeText.AssemblyInfo.cs
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\CasetDeText.csproj.CoreCompileInputs.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\CasetDeText.dll
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\refint\CasetDeText.dll
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\CasetDeText.pdb
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\CasetDeText.genruntimeconfig.cache
+M:\Facultate\ultimul an\medii de programare vizuala\exemple-proiect-2\CasetDeText\obj\Debug\net8.0-windows\ref\CasetDeText.dll
